@@ -8,11 +8,11 @@ gem 'pg'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
-# Use Uglifier as compressor for JavaScript assets
+# Use Uglifier as compressor for JavaScript assetss
 gem 'uglifier'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.1.0'
-# See https://github.com/rails/execjs#readme for more supported runtimes
+# See https://github.com/rails/execjs#re adme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem 'paperclip','4.2.4'
 # Use jquery as the JavaScript library
