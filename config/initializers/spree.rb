@@ -26,7 +26,7 @@
 Spree.config do |config|
        # Example:
        # Uncomment to override the default site name.
-       config.site_name = "Art Anzels"
+      
        config.admin_interface_logo = 'logo.svg'
 
       #S3 configuration
